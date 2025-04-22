@@ -111,7 +111,7 @@ const Counter = () => {
                 padding: { xs: "10px", sm: "12px" },
               }}
             >
-              Reset
+              Reset 11
             </Button>
           </Box>
         </CardContent>
